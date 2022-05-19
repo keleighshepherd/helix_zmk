@@ -51,6 +51,6 @@ As such, those are in use within the default layer at this time.*/
        &trans  &trans     &trans    &trans      &trans   &trans    &trans        &trans  &trans    &kp KP_N0    &kp KP_DOT   &kp KP_EQUAL &kp KP_DIVIDE   &trans
        &trans  &trans     &trans    &trans      &trans   &trans    &trans        &trans  &trans    &trans       &trans       &trans       &trans          &trans
                      >;
+                     };
               };
-
 };
